@@ -1,5 +1,4 @@
 import _ from 'lodash';
-const { entries } = require('lodash');
 //przeładowanie strony
 //podpunkt 2-done
 window.addEventListener('load', () => {
